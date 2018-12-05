@@ -1,7 +1,6 @@
 Forza 1.2
 (c) 2014
 
-http://themeforest.net/user/ndevrstudios
 ---------------------------------------
 
 Folder structure
@@ -16,7 +15,3 @@ Folder structure
 
 Thank you for purchasing this theme. We put a lot of work behind it, and would appreciate you rating this theme highly in themeforest. If you have any issues with the theme, please let us know first.
 
-For any questions, comments, or suggestions of improvements, please leave a comment at our TF page or send us an email at ndevrstudios@gmail.com
-
-
-- Ndevr Studios Ltd.
